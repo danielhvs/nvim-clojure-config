@@ -6,3 +6,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim ~/.local/share/nvi
 - Vai dar erro no treesitter
 - Fecha e abre o nvim
 - `:PackerSync`
+
+# Passo 2 instalar treesitter
+- config basica para clojure
+- ensure clojure
