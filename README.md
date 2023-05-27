@@ -22,3 +22,6 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim ~/.local/share/nvi
 - exemplos: `-ee`  (eval form)
 - exemplos: `-ew`  (eval word)
 - exemplos: `-eb`  (eval buffer)
+
+# Passo 5 instalar telescope
+- fim: config minima funcional
