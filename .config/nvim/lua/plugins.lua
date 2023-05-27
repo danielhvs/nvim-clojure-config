@@ -11,13 +11,15 @@ return require('packer').startup(function(use)
 
   use 'neovim/nvim-lspconfig'
 
+  use 'Olical/conjure'
+
   use {
    'hrsh7th/nvim-cmp',
     requires = {
        {'hrsh7th/cmp-path', branch = 'main'}
       ,{'hrsh7th/cmp-buffer'}
       ,{'hrsh7th/cmp-nvim-lsp'}
-      -- ,{'PaterJason/cmp-conjure'}
+      ,{'PaterJason/cmp-conjure'}
     }
   }
 

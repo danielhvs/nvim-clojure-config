@@ -15,3 +15,10 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim ~/.local/share/nvi
 - instalar `clojure-lsp`: https://github.com/clojure-lsp/clojure-lsp
 - ver as configs em ./.config/nvim/lua/*.lua
     - `:LspInfo` para verificar se funcionou
+
+# Passo 4 instalar conjure
+- usar localleader key
+- exemplos: `-er`  (eval root form)
+- exemplos: `-ee`  (eval form)
+- exemplos: `-ew`  (eval word)
+- exemplos: `-eb`  (eval buffer)
