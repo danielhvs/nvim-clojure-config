@@ -10,3 +10,8 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim ~/.local/share/nvi
 # Passo 2 instalar treesitter
 - config basica para clojure
 - ensure clojure
+
+# Passo 3 instalar autocomplete e clojure-lsp
+- instalar `clojure-lsp`: https://github.com/clojure-lsp/clojure-lsp
+- ver as configs em ./.config/nvim/lua/*.lua
+    - `:LspInfo` para verificar se funcionou
